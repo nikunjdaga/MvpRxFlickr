@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Flickr</string>
+    <string name="photo_fetching_error">Error fetching photos</string>
+</resources>
